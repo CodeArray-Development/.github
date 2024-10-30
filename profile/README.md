@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Visit us on our Discord-Server: https://discord.gg/KZ2FtDKQPk
 <!--
 
 **Here are some ideas to get you started:**
