@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Visit us on our Discord-Server: https://discord.gg/KZ2FtDKQPk
+Visit us on our Discord-Server: https://codearray.dev/discord
 <!--
 
 **Here are some ideas to get you started:**
